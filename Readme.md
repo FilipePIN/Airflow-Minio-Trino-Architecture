@@ -3,7 +3,7 @@
 - Source: https://www.linkedin.com/pulse/criando-um-data-lake-de-baixo-custo-e-agn%25C3%25B3stico-com-dbt-outtes-msc--n2pvf/?trackingId=FdeH6JP36P26Z4FHDqKK3A%3D%3D
 - Github: https://github.com/victorouttes/spotify_datalake
 
-![alt text](Airflow Minio Trino System Architecture.png)
+<img src="airflow_minio_trino_system_architecture.png" alt="drawing" width="800"/>
 
 #### Commands:
 - docker-compose up -d
